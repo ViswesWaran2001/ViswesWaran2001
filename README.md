@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViswesWaran2001
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning PYTHON
-- 💞️ I want to become a DATA ANALYST
+- 💞️ I want to become a PYTHON PROGRAMMER
 - 📫 How to reach me visweswarantomcruise@gmail.com
 
 <!---
