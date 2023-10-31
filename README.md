@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ViswesWaran2001
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning PYTHON
-- 💞️ I want to become a PYTHON PROGRAMMER
+- 👋 String Name = "VISWESWARAN";
+- 👀 Interested in FullStack
+- 🌱 Hungry Learner
+- 💞️ Goal is CLOUD ARCHITECT
 - 📫 How to reach me visweswarantomcruise@gmail.com
 
 <!---
